@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @efragafd
+- 👀 I’m interested in software development, IA, etc.
+- 🌱 I’m currently learning App and Web Development.
